@@ -1,0 +1,16 @@
+{
+    "fall": {
+        "MATH 21": {
+            "grade": "A",
+            "units": 4
+        },
+        "PWR 1OS": {
+            "grade": "A+",
+            "units": 4
+        },
+        "GENE 134": {
+            "grade": "A-",
+            "units": 3
+        }
+    }
+}
