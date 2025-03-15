@@ -14,29 +14,29 @@
         }
     },
     "winter": {
-        "MATH 21": {
-            "grade": "A",
-            "units": 4
+        "CS 106B": {
+            "grade": "B-",
+            "units": 5
         },
-        "PWR 1OS": {
+        "COLLEGE 102": {
             "grade": "A+",
-            "units": 4
-        },
-        "GENE 134": {
-            "grade": "A-",
             "units": 3
+        },
+        "MATH 51": {
+            "grade": "A-",
+            "units": 5
         }
     },
     "spring": {
-        "MATH 21": {
-            "grade": "A",
-            "units": 4
-        },
-        "PWR 1OS": {
+        "COLLEGE 117": {
             "grade": "A+",
             "units": 4
         },
-        "GENE 134": {
+        "CS 109": {
+            "grade": "B+",
+            "units": 5
+        },
+        "ENGR 40M": {
             "grade": "A-",
             "units": 3
         }

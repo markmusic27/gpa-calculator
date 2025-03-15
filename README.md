@@ -46,14 +46,6 @@ Below is the table that maps letter grades to their numerical representation:
 | NP           | 0.0             |
 | L            | 2.0             |
 
-## Installation
-
-To install and run the Stanford Grade Calculator, ensure you have Python installed on your system. Then, clone the repository and navigate to the project directory. Run the following command to install any necessary dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
 ## Loading Grades
 
 To load your grades, create a JSON file for each academic year in the `grades` folder. Each file should contain your grades quarter by quarter. You can add classes, grades, and units for each quarter. Here's an example structure:

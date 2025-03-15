@@ -105,7 +105,7 @@ def select_quarter(year_data):
     
     while True:
         try:
-            choice = int(input("\n\033[1mEnter the number of the quarter: \033[0m"))
+            choice = int(input("\n\033[1mEnter the quarter: \033[0m"))
             if 1 <= choice <= len(quarters):
                 return quarters[choice - 1]
             else:
@@ -124,7 +124,7 @@ def select_year(years):
     
     while True:
         try:
-            choice = int(input("\n\033[1mEnter year: \033[0m"))
+            choice = int(input("\n\033[1mEnter the year: \033[0m"))
             if 1 <= choice <= len(sorted_years):
                 return sorted_years[choice - 1]
             else:
@@ -143,6 +143,8 @@ def calculate_quarter_gpa(grade_map):
     
     year = select_year(files);
     year_data = read_grade_file(year)
+    
+    print()
     
     quarter = select_quarter(year_data)
     
