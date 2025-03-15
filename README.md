@@ -6,9 +6,9 @@ The following is a command-line Stanford Grade Calculator. This handy command-li
 
 The GPA is calculated using the formula:
 
-$
-text{GPA} = \frac{\sum (\text{Class Grade} \times \text{Units})}{\text{Total Units}}
-$
+
+$GPA = \frac{\sum (\text{Class Grade} \times \text{Units})}{\text{Total Units}}$
+
 
 This formula can be applied to calculate the GPA for a specific quarter, a specific year, or across all years.
 
