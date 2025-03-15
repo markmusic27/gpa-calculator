@@ -1,4 +1,4 @@
-## Stanford Grade Calculator
+<h2 style="text-align: center;">Stanford Grade Calculator</h1>
 
 The following is a command-line Stanford Grade Calculator. This handy command-line tool helps you figure out your GPA for a specific quarter, a whole year, or even your overall GPA super easily.
 
@@ -12,7 +12,7 @@ The GPA is calculated using the formula:
 ```math
 \text{GPA} = \frac{\sum (\text{Class Grade} \times \text{Units})}{\text{Total Units}}
 ```
-// 
+<br>
 
 
 This formula can be applied to calculate the GPA for a specific quarter, a specific year, or across all years.
