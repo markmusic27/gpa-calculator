@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center"><b>Emiliano Cuevas</b></h1>
+  <h1 align="center"><b>Mark Music</b></h1>
   <p align="center">
   ✶ A minimal CLI for calculating your GPA @ Stanford ✶
     <br />
