@@ -1,14 +1,14 @@
 <p align="center">
   <h1 align="center"><b>GPA Calculator CLI</b></h1>
   <p align="center">
-  ✶ A minimal CLI for calculating your GPA @ Stanford ✶
+  ✶ A lightweight CLI for calculating your GPA @ Stanford ✶
     <br />
     <a href="https://github.com/markmusic27/gpa_calculator/archive/refs/heads/main.zip">Download »</a>
     <br />
   </p>
 </p>
 
-The following is a command-line Stanford Grade Calculator. This handy command-line tool helps you figure out your GPA for a specific quarter, a whole year, or even your overall GPA super easily.
+The following is a command-line Stanford Grade Calculator. This handy command-line tool helps you figure out your GPA for a specific quarter, a whole year, or even your overall GPA easily.
 
 ![Demo of Stanford Grade Calculator](https://github.com/markmusic27/gpa_calculator/blob/main/docs/demo.png?raw=true)
 
