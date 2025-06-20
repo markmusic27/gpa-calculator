@@ -119,7 +119,7 @@ Feel free to modify the grades and units to see how it affects your GPA. You don
 Run the program using:
 
 ```bash
-python calculator.py
+python main.py
 ```
 
 The CLI will prompt you to select an option:
