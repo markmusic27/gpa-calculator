@@ -48,7 +48,7 @@ Below is the table that maps letter grades to their numerical representation:
 
 ## Loading Grades
 
-To load your grades, create a JSON file for each academic year in the `grades` folder. Each file should contain your grades quarter by quarter. You can add classes, grades, and units for each quarter. Here's an example structure:
+To load your grades, create a JSON file for each academic year in the `grades` folder. **You need to create this folder in the root directory of the project.** Each file should contain your yearly grades, by quarter. You can add classes, grades, and units for each quarter. Here's an example structure:
 
 ```json
 {
@@ -58,7 +58,52 @@ To load your grades, create a JSON file for each academic year in the `grades` f
             "units": 4
         },
         "PWR 1OS": {
+            "grade": "A",
+            "units": 4
+        },
+        "GENE 134": {
             "grade": "B+",
+            "units": 3
+        }
+    },
+    "winter": {
+        "COLLEGE 102": {
+            "grade": "A",
+            "units": 3
+        },
+        "CS 106B": {
+            "grade": "B+",
+            "units": 5
+        }
+     },
+     "spring": {
+        "COLLEGE 117": {
+            "grade": "A",
+            "units": 4
+        },
+        "MATH 51": {
+            "grade": "A-",
+            "units": 5
+        },
+        "CS 109": {
+            "grade": "A",
+            "units": 5
+        },
+    }
+}
+```
+
+Feel free to modify the grades and units to see how it affects your GPA. You don't need to add a complete year. For example, this is also a valid `freshman.json` file:
+
+```json
+{
+    "fall": {
+        "MATH 21": {
+            "grade": "A",
+            "units": 4
+        },
+        "PWR 1OS": {
+            "grade": "A",
             "units": 4
         },
         "GENE 134": {
@@ -68,8 +113,6 @@ To load your grades, create a JSON file for each academic year in the `grades` f
     }
 }
 ```
-
-Feel free to modify the grades and units to see how it affects your GPA.
 
 ## Usage
 
